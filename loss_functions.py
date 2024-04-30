@@ -31,7 +31,7 @@ class MoMLoss(torch.nn.Module):
 
 
 class DiceLoss(torch.nn.Module):
-    def __init__(self, smooth=1.):
+    def __init__(self, smooth=1.): 
         super(DiceLoss, self).__init__()
         self.smooth = smooth
 
