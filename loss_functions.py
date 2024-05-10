@@ -6,9 +6,9 @@ def compute_class_weights(labels):
     class_weights = 1. / class_counts.float()
     class_weights /= class_weights.min()
 
-    # TODO: try more weight
+    # TODO: try more weight or remove
     # Increase weight for class 1 by 10%
-    class_weights[1] *= 1.10
+    class_weights[1] *= 1.20
 
     return class_weights
 
