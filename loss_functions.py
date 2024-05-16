@@ -8,7 +8,7 @@ def compute_class_weights(labels):
 
     # TODO: try more weight or remove
     # Increase weight for class 1 by 10%
-    class_weights[1] *= 1.20
+    # class_weights[1] *= 1.10
 
     return class_weights
 
