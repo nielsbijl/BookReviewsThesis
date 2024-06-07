@@ -3,6 +3,21 @@ import pickle
 import string
 import numpy as np
 from tqdm import tqdm
+import re
+
+
+def remove_extra_spaces(text):
+    """
+    Remove extra spaces from a string by replacing multiple spaces with a single space.
+
+    Args:
+        text (str): The input text with potential extra spaces.
+
+    Returns:
+        str: The cleaned text with single spaces between words.
+    """
+    cleaned_text = re.sub(r'\s+', ' ', text)
+    return cleaned_text.strip()
 
 
 def remove_punctuation(input_string):
