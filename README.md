@@ -2,6 +2,9 @@
 
 This repository contains the code and data for my thesis on Named Entity Recognition (NER) for identifying book titles in newspaper archives. The dataset includes articles from "Leeuwarde Courant" (LC), "Het Parool", and "Trouw" newspapers.
 
+## Model
+
+The final model for Named Entity Recognition (NER) of book titles can be found on [Hugging Face](https://huggingface.co/Nielsaxe/BookTitleNERDutch).
 ## Repository Structure
 
 - `data/`: Contains raw and processed data files.
@@ -19,3 +22,4 @@ This repository contains the code and data for my thesis on Named Entity Recogni
    ```bash
    git clone https://github.com/yourusername/BookReviewsThesis.git
    cd BookReviewsThesis
+
