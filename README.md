@@ -9,9 +9,6 @@ This repository contains the code and data for my thesis on Named Entity Recogni
   - `processed/`: Processed data files ready for training and evaluation.
 - `notebooks/`: Jupyter notebooks for data analysis and experimentation.
 - `scripts/`: Python scripts for data preparation, model training, evaluation, and visualization.
-- `models/`: Model checkpoints and trained models.
-- `wordembeddings/`: Pre-trained word embeddings.
-- `vector_cache/`: Cache for vectorized data.
 - `thesis/`: Documents related to the thesis.
 - `.gitignore`: Specifies files and directories to be ignored by Git.
 - `README.md`: Project overview and setup instructions.
