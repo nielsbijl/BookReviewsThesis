@@ -1,6 +1,6 @@
 # BookReviewsThesis
 
-This repository contains the code and data for my thesis on Named Entity Recognition (NER) for identifying book titles in newspaper archives. The dataset includes articles from "Leeuwarde Courant" (LC), "Parool", and "Trouw" newspapers.
+This repository contains the code and data for my thesis on Named Entity Recognition (NER) for identifying book titles in newspaper archives. The dataset includes articles from "Leeuwarde Courant" (LC), "Het Parool", and "Trouw" newspapers.
 
 ## Repository Structure
 
