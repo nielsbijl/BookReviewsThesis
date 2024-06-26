@@ -7,9 +7,6 @@ This repository contains the code and data for my thesis on Named Entity Recogni
 The final model for Named Entity Recognition (NER) of book titles can be found on [Hugging Face](https://huggingface.co/Nielsaxe/BookTitleNERDutch).
 ## Repository Structure
 
-- `data/`: Contains raw and processed data files.
-  - `raw/`: Original raw data files.
-  - `processed/`: Processed data files ready for training and evaluation.
 - `notebooks/`: Jupyter notebooks for data analysis and experimentation.
 - `scripts/`: Python scripts for data preparation, model training, evaluation, and visualization.
 - `thesis/`: Documents related to the thesis.
