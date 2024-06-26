@@ -10,6 +10,7 @@ The final model for Named Entity Recognition (NER) of book titles can be found o
 - `notebooks/`: Jupyter notebooks for data analysis and experimentation.
 - `scripts/`: Python scripts for data preparation, model training, evaluation, and visualization.
 - `thesis/`: Documents related to the thesis.
+- `word_dictionary/`: Dictionary of words for OCR analysis, including Dutch and German dictionaries used to assess OCR quality.
 - `.gitignore`: Specifies files and directories to be ignored by Git.
 - `README.md`: Project overview and setup instructions.
 
