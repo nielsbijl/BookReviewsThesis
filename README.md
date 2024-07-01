@@ -22,6 +22,6 @@ The final model for Named Entity Recognition (NER) of book titles can be found o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BookReviewsThesis.git
+   git clone https://github.com/nielsbijl/BookReviewsThesis.git
    cd BookReviewsThesis
 
